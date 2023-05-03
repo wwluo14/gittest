@@ -4,3 +4,4 @@ hello git 3-1-2-merge
 hello master
 hello master2
 hello master3
+hello master4
